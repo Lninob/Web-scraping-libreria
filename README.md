@@ -26,7 +26,7 @@ El repositorio contiene los siguientes archivos:
 * **requirements.txt:** Archivo con las librerías necesarias para ejecutar el código de este repositorio.
 * **Informe pdf:** Contiene el informe en pdf del proyecto.
 
-### Enlaces:
+## Enlaces:
 * **Doi Zenodo:** [https://doi.org/10.5281/zenodo.14079106](https://doi.org/10.5281/zenodo.14079106)
 * **Enlace video:** *(Agregar enlace aquí)*
 * Página web: https://www.buscalibre.com.co/
