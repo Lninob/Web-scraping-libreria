@@ -29,6 +29,9 @@ El repositorio contiene los siguientes archivos:
 ### Enlaces:
 * **Doi Zenodo:** [https://doi.org/10.5281/zenodo.14079106](https://doi.org/10.5281/zenodo.14079106)
 * **Enlace video:** *(Agregar enlace aquí)*
+* Página web: https://www.buscalibre.com.co/
+* Repositorio en github: https://github.com/Lninob/Web-scraping-libreria/ 
+
 
 ## Instrucciones para ejecutar el código:
 
