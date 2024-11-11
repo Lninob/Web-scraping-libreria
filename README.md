@@ -64,7 +64,7 @@ El script hará lo siguiente:
 
 **NOTA:** El script guarda los datos extraídos en un archivo CSV en la misma carpeta donde se encuentra el script.
 
-### Ejemplo de salida
+## Ejemplo de salida
 
 Al ejecutar el script, se generará un archivo `datos_libros_categorias.csv` dentro de la carpeta con todos los datos extraídos, incluyendo las siguientes columnas:
 
@@ -80,7 +80,7 @@ Al ejecutar el script, se generará un archivo `datos_libros_categorias.csv` den
 * Precio anterior
 * Precio actual
 
-### Notas adicionales
+## Notas adicionales
 
 * **Tiempo de ejecución:** El tiempo de ejecución puede variar según la velocidad de la conexión a internet y el número de categorías que el script deba procesar.
 * **Interacción con el sitio web:** El script simula la navegación de un usuario real y puede estar sujeto a cambios en la estructura del sitio web de Buscalibre. Si el sitio cambia, puede ser necesario actualizar las funciones de extracción de datos.
