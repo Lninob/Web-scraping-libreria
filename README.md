@@ -28,7 +28,7 @@ El repositorio contiene los siguientes archivos:
 
 ## Enlaces:
 * **Doi Zenodo:** [https://doi.org/10.5281/zenodo.14079106](https://doi.org/10.5281/zenodo.14079106)
-* **Enlace video:** video en Drive [https://drive.google.com/file/d/187GOLEZyD030NRyMAKHsmkC89-CIrBGi/view?usp=sharing] o en disponible en [https://youtu.be/VFXW1eVO864]
+* **Enlace video:** video alojado en [https://drive.google.com/file/d/187GOLEZyD030NRyMAKHsmkC89-CIrBGi/view?usp=sharing](GoogleDrive) o en disponible en [https://youtu.be/VFXW1eVO864](Youtube)
 * Página web: https://www.buscalibre.com.co/
 * Repositorio en github: https://github.com/Lninob/Web-scraping-libreria/ 
 
